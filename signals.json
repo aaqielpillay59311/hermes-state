@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T00:31:08.020626+00:00",
-    "token": "TRK",
-    "ca": "9shb4VuR85tKziVn7sxScS8AXEFA4smM8NL4Z6utBAGS",
-    "tier": "Unknown",
-    "ai_score": 2,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Unknown disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T00:45:27.772195+00:00",
     "token": "F",
     "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
@@ -850,5 +838,32 @@
     "warning_flags": [
       "\u26a0\ufe0f Node Hold \u2014 5.75%"
     ]
+  },
+  {
+    "time": "2026-05-14T22:31:51.883083+00:00",
+    "token": "TROLLJAK",
+    "ca": "BJhcv4i825FJ8rprWRjHnHJ3Eh4B5hVrYwZAQP5kpump",
+    "tier": "Low",
+    "ai_score": 7,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 41,
+    "liquidity_usd": 64000.0,
+    "mcap_usd": 182000.0,
+    "snipers": 0,
+    "retrace_pct": 26.0,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 7.22% \u26a0\ufe0f",
+    "holder_concentration": 7.22,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": []
   }
 ]
