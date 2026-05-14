@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T00:54:37.694307+00:00",
-    "token": "degen",
-    "ca": "94Tp7j5xnJNjum75FLeaELNq7CqhFajV3yWXQ5mBibqM",
-    "tier": "Unknown",
-    "ai_score": 45,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Unknown disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T01:02:45.372349+00:00",
     "token": "degen",
     "ca": "94Tp7j5xnJNjum75FLeaELNq7CqhFajV3yWXQ5mBibqM",
@@ -899,5 +887,34 @@
     "bundle_hold_pct": 0,
     "trend": "Low",
     "warning_flags": []
+  },
+  {
+    "time": "2026-05-14T22:56:56.353531+00:00",
+    "token": "CATCH",
+    "ca": "56bvE5B3AkzTuM9QDRYhcP4juUbZ4fjiDafF5veYpump",
+    "tier": "Low",
+    "ai_score": 20,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 14,
+    "liquidity_usd": 110000.0,
+    "mcap_usd": 205000.0,
+    "snipers": 4,
+    "retrace_pct": 25.1,
+    "risk_level": "Medium",
+    "safety_level": "Potential Dump \ud83d\udc80  |  \ud83d\udc7e 16.09% \u26a0\ufe0f",
+    "holder_concentration": 16.09,
+    "node_hold_pct": 11.37,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": [
+      "\u26a0\ufe0f Node Hold \u2014 11.37%"
+    ]
   }
 ]
