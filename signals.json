@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-13T23:37:03.277363+00:00",
-    "token": "CHUDNIG",
-    "ca": "Dp455H62jFjhVCc5xQSiGq5bt8iPzu1Edzjkd7dZpump",
-    "tier": "Unknown",
-    "ai_score": 3,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Unknown disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T00:31:08.020626+00:00",
     "token": "TRK",
     "ca": "9shb4VuR85tKziVn7sxScS8AXEFA4smM8NL4Z6utBAGS",
@@ -832,6 +820,35 @@
     "trend": "Medium",
     "warning_flags": [
       "Bundle Hold \u2014 6.78%"
+    ]
+  },
+  {
+    "time": "2026-05-14T22:31:16.798225+00:00",
+    "token": "JOE",
+    "ca": "EjvsudvUcxrZwCWARwdS9BmEPisvZLjmnkdegeRbpump",
+    "tier": "Low",
+    "ai_score": 6,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 129,
+    "liquidity_usd": 185000.0,
+    "mcap_usd": 1400000.0,
+    "snipers": 3,
+    "retrace_pct": 27.3,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 8.93% \u26a0\ufe0f",
+    "holder_concentration": 8.93,
+    "node_hold_pct": 5.75,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Node Hold \u2014 5.75%"
     ]
   }
 ]
