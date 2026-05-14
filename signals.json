@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T00:51:03.869196+00:00",
-    "token": "uAPE",
-    "ca": "5E2woTdd2Gc4BpfE4yDPC4rTEJCo3fijhveDxhaZpump",
-    "tier": "Unknown",
-    "ai_score": 16,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Unknown disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T00:54:37.694307+00:00",
     "token": "degen",
     "ca": "94Tp7j5xnJNjum75FLeaELNq7CqhFajV3yWXQ5mBibqM",
@@ -884,5 +872,32 @@
       "Bundle Hold \u2014 5.89%",
       "Node Hold \u2014 6.39%"
     ]
+  },
+  {
+    "time": "2026-05-14T22:51:22.766631+00:00",
+    "token": "Buttercup",
+    "ca": "Lgxd1vojJBFpc2zqvSraEVW6dfREyDAgXxRdJaCpump",
+    "tier": "Low",
+    "ai_score": 4,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 42,
+    "liquidity_usd": 7000.0,
+    "mcap_usd": 107000.0,
+    "snipers": 0,
+    "retrace_pct": 24.4,
+    "risk_level": "Warning",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 5.50% \u26a0\ufe0f",
+    "holder_concentration": 5.5,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": []
   }
 ]
