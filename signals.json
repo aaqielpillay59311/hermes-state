@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T11:28:35.316146+00:00",
-    "token": "67K",
-    "ca": "DPpVAgSkLCjgc5Ss6E51XAX2TUTKK3TzQ3P33HyS4444",
-    "tier": "Low",
-    "ai_score": 47,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T11:34:14.020308+00:00",
     "token": "MEMELON",
     "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
@@ -1250,5 +1238,34 @@
     "warning_flags": [
       "Node Hold \u2014 5.56%"
     ]
+  },
+  {
+    "time": "2026-05-15T14:13:10.724680+00:00",
+    "token": "GPT",
+    "ca": "6mR52kx4sexuBPSPyKrLAFFXz3kdc61fqFAmPqLqpump",
+    "tier": "Low",
+    "ai_score": 20,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\ude80 Strong SM play",
+    "age_minutes": 4,
+    "liquidity_usd": 58000.0,
+    "mcap_usd": 208000.0,
+    "snipers": 11,
+    "retrace_pct": 0.0,
+    "risk_level": "Fair",
+    "safety_level": "Clean \u2705  |  \ud83d\udc7e 0.00%",
+    "holder_concentration": 0.0,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Extreme",
+    "warning_flags": [],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
   }
 ]
