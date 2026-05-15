@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-14T23:18:25.770296+00:00",
-    "token": "CATCH",
-    "ca": "56bvE5B3AkzTuM9QDRYhcP4juUbZ4fjiDafF5veYpump",
-    "tier": "Low",
-    "ai_score": 21,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\ud83d\ude80 Strong SM play",
-    "age_minutes": 36,
-    "liquidity_usd": 122000.0,
-    "mcap_usd": 809000.0,
-    "snipers": 2,
-    "retrace_pct": 27.9,
-    "risk_level": "Fair",
-    "safety_level": "Low \u2705  |  \ud83d\udc7e 3.78% \u26a0\ufe0f",
-    "holder_concentration": 3.78,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 11.52,
-    "trend": "Low",
-    "warning_flags": [
-      "\u26a0\ufe0f Bundle Hold \u2014 11.52%"
-    ]
-  },
-  {
     "time": "2026-05-15T00:15:06.334926+00:00",
     "token": "Bee",
     "ca": "2b2ReGJtwXYG2dYzHeYxYgYp65pHKtjN1pHHvgQCpump",
@@ -1466,6 +1437,38 @@
     "trend": "Low",
     "warning_flags": [],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T20:31:53.351474+00:00",
+    "token": "SPCX",
+    "ca": "6ymvbHWYqA8QdfZEqp3UVipqefpfzd5NYK8hYr4nX2Wz",
+    "tier": "T1",
+    "ai_score": 25,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 25 \u2265 20 | BOBNET | \u26a0\ufe0f No Twitter",
+    "status": "EXECUTED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\ude80 Strong SM play",
+    "age_minutes": 108,
+    "liquidity_usd": 81000.0,
+    "mcap_usd": 2300000.0,
+    "snipers": 7,
+    "retrace_pct": 27.7,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 6.99% \u26a0\ufe0f",
+    "holder_concentration": 6.99,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 5.97,
+    "bundle_hold_pct": 12.4,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Dev Hold \u2014 5.97%",
+      "Bundle Hold \u2014 12.40%"
+    ],
+    "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
