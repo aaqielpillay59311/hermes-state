@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T04:39:11.965295+00:00",
-    "token": "lol420FTP",
-    "ca": "EwrGp4tDun3pVvHpidcoWbtSaU5gDpUJwuz3F7gEpump",
-    "tier": "Low Score",
-    "ai_score": 0,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low Score disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T05:06:20.474194+00:00",
     "token": "F",
     "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
@@ -1031,5 +1019,34 @@
     "bundle_hold_pct": 0,
     "trend": "Medium",
     "warning_flags": []
+  },
+  {
+    "time": "2026-05-15T03:22:53.546368+00:00",
+    "token": "Uncanny",
+    "ca": "Ft9MU7SQcYBnHwjppHnjrfWNmREHHXpg6HHH7mX7pump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 144,
+    "liquidity_usd": 35000.0,
+    "mcap_usd": 213000.0,
+    "snipers": 2,
+    "retrace_pct": 27.7,
+    "risk_level": "Warning",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 10.69% \u26a0\ufe0f",
+    "holder_concentration": 10.69,
+    "node_hold_pct": 7.74,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "Node Hold \u2014 7.74%"
+    ]
   }
 ]
