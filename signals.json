@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-15T07:41:03.469552+00:00",
-    "token": "MARMOT",
-    "ca": "AbD4royWBbDGPfStspdWibKbMcadawknP7q6JwxQjNyP",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 533,
-    "liquidity_usd": 304000.0,
-    "mcap_usd": 284000.0,
-    "snipers": 6,
-    "retrace_pct": 26.9,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.08% \u26a0\ufe0f",
-    "holder_concentration": 9.08,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 8.01,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Dev Hold \u2014 8.01%"
-    ]
-  },
-  {
     "time": "2026-05-15T10:58:54.175102+00:00",
     "token": "USEC",
     "ca": "b77PRZ39rF5tWL89aARgsaCsC84K5M4Bq41mq7xpump",
@@ -1488,6 +1459,38 @@
     "bundle_hold_pct": 0,
     "trend": "Low",
     "warning_flags": [],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T23:55:54.846956+00:00",
+    "token": "Cloutcoin",
+    "ca": "A6AoV47iRQQNBdKVZ8V3DQyy7Qxvf28KhhpY3SeZ2R5A",
+    "tier": "Low",
+    "ai_score": 1,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 6,
+    "liquidity_usd": 16000.0,
+    "mcap_usd": 47000.0,
+    "snipers": 2,
+    "retrace_pct": 20.3,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 10.74% \u26a0\ufe0f",
+    "holder_concentration": 10.74,
+    "node_hold_pct": 10.18,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 6.65,
+    "trend": "High",
+    "warning_flags": [
+      "\u26a0\ufe0f Bundle Hold \u2014 6.65%",
+      "Node Hold \u2014 10.18%"
+    ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
