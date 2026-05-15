@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T13:36:12.349266+02:00",
+  "timestamp": "2026-05-15T13:37:13.984018+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 1.0,
@@ -21,17 +21,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 523,
+    "uptime": 585,
     "restarts": 0,
     "signals_today": 18,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 1132,
+    "uptime": 1193,
     "restarts": 2,
     "pid": 582938,
-    "heap_mb": 98.8,
+    "heap_mb": 99.0,
     "queue_size": 0
   },
   "performance": {
@@ -46,15 +46,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 2623,
+      "uptime": 2685,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 61.7
+      "heap_mb": 61.9
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 2623,
+      "uptime": 2684,
       "restarts": 0,
       "pid": 578349,
       "heap_mb": 3.0
@@ -62,23 +62,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 2622,
+      "uptime": 2684,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 87.3
+      "heap_mb": 87.6
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 1132,
+      "uptime": 1193,
       "restarts": 2,
       "pid": 582938,
-      "heap_mb": 98.8
+      "heap_mb": 99.0
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 759,
+      "uptime": 821,
       "restarts": 3,
       "pid": 583864,
       "heap_mb": 37.0
@@ -86,7 +86,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 2621,
+      "uptime": 2682,
       "restarts": 0,
       "pid": 578389,
       "heap_mb": 36.4
@@ -94,7 +94,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 2620,
+      "uptime": 2682,
       "restarts": 0,
       "pid": 578398,
       "heap_mb": 3.1
@@ -102,10 +102,18 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 523,
+      "uptime": 585,
       "restarts": 0,
       "pid": 584472,
       "heap_mb": 71.6
+    },
+    "sentiment-engine": {
+      "name": "sentiment-engine",
+      "status": "online",
+      "uptime": 11,
+      "restarts": 0,
+      "pid": 585730,
+      "heap_mb": 23.1
     }
   }
 }
