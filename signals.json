@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T07:28:58.159046+00:00",
-    "token": "38K",
-    "ca": "AKnykRLcwNFznXkkifE9tc5MBQEkqkusDdyb9Ptvpump",
-    "tier": "Low",
-    "ai_score": 8,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T08:16:22.773977+00:00",
     "token": "F",
     "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
@@ -1102,5 +1090,32 @@
       "Bundle Hold \u2014 7.13%",
       "Node Hold \u2014 5.01%"
     ]
+  },
+  {
+    "time": "2026-05-15T04:38:16.085851+00:00",
+    "token": "Dust",
+    "ca": "6veQU7HDdXV5DC2Eqhnri5q71gkMzG73qKkSSudnpump",
+    "tier": "T1",
+    "ai_score": 57,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Safety: Potential Dump detected",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\ude80 Strong SM play  |  Runner Lvl. 3/10",
+    "age_minutes": 20,
+    "liquidity_usd": 67000.0,
+    "mcap_usd": 202000.0,
+    "snipers": 6,
+    "retrace_pct": 21.4,
+    "risk_level": "Medium",
+    "safety_level": "Potential Dump \ud83d\udc80  |  \ud83d\udc7e 2.76%",
+    "holder_concentration": 2.76,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": []
   }
 ]
