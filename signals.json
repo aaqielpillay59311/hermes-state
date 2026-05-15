@@ -1,35 +1,5 @@
 [
   {
-    "time": "2026-05-14T20:56:18.533440+00:00",
-    "token": "FRANKIE",
-    "ca": "GPt6t8MCmHibCN5T8aHuc5ntgLW5rJGZbccyhL1Cpump",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 18,
-    "liquidity_usd": 6000.0,
-    "mcap_usd": 61000.0,
-    "snipers": 0,
-    "retrace_pct": 22.5,
-    "risk_level": "Warning",
-    "safety_level": "Low \u2705  |  \ud83d\udc7e 20.05% \u26a0\ufe0f",
-    "holder_concentration": 20.05,
-    "node_hold_pct": 14.47,
-    "dev_hold_pct": 5.59,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Dev Hold \u2014 5.59%",
-      "Node Hold \u2014 14.47%"
-    ]
-  },
-  {
     "time": "2026-05-14T21:08:59.293429+00:00",
     "token": "CUPCOIN",
     "ca": "BAGEvL7829KW5HG81qQU2NNbvFJrnsXMXqb24ZwXpump",
@@ -1461,6 +1431,35 @@
     "warning_flags": [
       "Node Hold \u2014 8.83%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T18:45:52.685809+00:00",
+    "token": "DIAMOND",
+    "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
+    "tier": "Low",
+    "ai_score": 10,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 425,
+    "liquidity_usd": 428000.0,
+    "mcap_usd": 1500000.0,
+    "snipers": 12,
+    "retrace_pct": 28.5,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 8.12% \u26a0\ufe0f",
+    "holder_concentration": 8.12,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
