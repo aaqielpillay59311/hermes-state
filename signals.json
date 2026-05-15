@@ -1,35 +1,5 @@
 [
   {
-    "time": "2026-05-14T19:52:44.509290+00:00",
-    "token": "Toly",
-    "ca": "379BCjzGPuFvqTHcpJPU8m9ZUjh8bXoCPV4hG8Ljpump",
-    "tier": "Low",
-    "ai_score": 33,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\ud83d\ude80 Strong SM play",
-    "age_minutes": 58,
-    "liquidity_usd": 209000.0,
-    "mcap_usd": 383000.0,
-    "snipers": 6,
-    "retrace_pct": 26.8,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 14.13% \u26a0\ufe0f",
-    "holder_concentration": 14.13,
-    "node_hold_pct": 7.25,
-    "dev_hold_pct": 6.88,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Dev Hold \u2014 6.88%",
-      "Node Hold \u2014 7.25%"
-    ]
-  },
-  {
     "time": "2026-05-14T20:22:28.834302+00:00",
     "token": "CUPCOIN",
     "ca": "BAGEvL7829KW5HG81qQU2NNbvFJrnsXMXqb24ZwXpump",
@@ -1456,6 +1426,38 @@
     "trend": "Low",
     "warning_flags": [
       "Bundle Hold \u2014 13.09%"
+    ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T17:32:05.151276+00:00",
+    "token": "YGMI",
+    "ca": "4khLfbmDbhoonMLdpyukD3rcP5NJaSEbTM8QvnkD97Lv",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 10,
+    "liquidity_usd": 47000.0,
+    "mcap_usd": 228000.0,
+    "snipers": 3,
+    "retrace_pct": 24.4,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 13.06% \u26a0\ufe0f",
+    "holder_concentration": 13.06,
+    "node_hold_pct": 5.88,
+    "dev_hold_pct": 7.18,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": [
+      "\u26a0\ufe0f Dev Hold \u2014 7.18%",
+      "Node Hold \u2014 5.88%"
     ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
