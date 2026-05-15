@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T15:09:33.617029+00:00",
-    "token": "e",
-    "ca": "2wFzPu4X4YHt2XGg6PsJW625KvJHghjTq4rfTUBUpump",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T15:11:16.469464+00:00",
     "token": "DEER",
     "ca": "4V9ebEKuL72Cu4zHmWjgNw4sxc9uuZBXRTqPj1sHpump",
@@ -1374,6 +1362,37 @@
     "trend": "Low",
     "warning_flags": [
       "\u26a0\ufe0f Node Hold \u2014 5.56%"
+    ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T15:07:44.948873+00:00",
+    "token": "GPT",
+    "ca": "6mR52kx4sexuBPSPyKrLAFFXz3kdc61fqFAmPqLqpump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 59,
+    "liquidity_usd": 28000.0,
+    "mcap_usd": 731000.0,
+    "snipers": 4,
+    "retrace_pct": 27.2,
+    "risk_level": "Medium",
+    "safety_level": "Potential Dump \ud83d\udc80  |  \ud83d\udc7e 7.86% \u26a0\ufe0f",
+    "holder_concentration": 7.86,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 5.33,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Dev Hold \u2014 5.33%"
     ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
