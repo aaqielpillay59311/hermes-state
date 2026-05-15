@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T10:42:00.553886+00:00",
-    "token": "F",
-    "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T10:57:27.996086+00:00",
     "token": "MEMELON",
     "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
@@ -1198,6 +1186,35 @@
     "trend": "Low",
     "warning_flags": [
       "\u26a0\ufe0f Dev Hold \u2014 6.48%"
+    ]
+  },
+  {
+    "time": "2026-05-15T07:41:03.469552+00:00",
+    "token": "MARMOT",
+    "ca": "AbD4royWBbDGPfStspdWibKbMcadawknP7q6JwxQjNyP",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 533,
+    "liquidity_usd": 304000.0,
+    "mcap_usd": 284000.0,
+    "snipers": 6,
+    "retrace_pct": 26.9,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.08% \u26a0\ufe0f",
+    "holder_concentration": 9.08,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 8.01,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "Dev Hold \u2014 8.01%"
     ]
   }
 ]
