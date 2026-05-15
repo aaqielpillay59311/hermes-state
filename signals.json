@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T09:02:28.364791+00:00",
-    "token": "PSCAPE",
-    "ca": "8haahDqcTpA4jigMXUtM5TdDbLToL5fWHSjrVfG8pump",
-    "tier": "Low",
-    "ai_score": 16,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T09:12:03.011998+00:00",
     "token": "F",
     "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
@@ -1135,5 +1123,32 @@
       "Bundle Hold \u2014 17.55%",
       "Node Hold \u2014 14.80%"
     ]
+  },
+  {
+    "time": "2026-05-15T05:07:47.194974+00:00",
+    "token": "Dust",
+    "ca": "6veQU7HDdXV5DC2Eqhnri5q71gkMzG73qKkSSudnpump",
+    "tier": "T2",
+    "ai_score": 93,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 93 \u2265 65 | BOBNET | \u26a0\ufe0f No Twitter",
+    "status": "EXECUTED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner  |  Runner Lvl. 5/10",
+    "age_minutes": 49,
+    "liquidity_usd": 73000.0,
+    "mcap_usd": 407000.0,
+    "snipers": 4,
+    "retrace_pct": 26.2,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 4.64% \u26a0\ufe0f",
+    "holder_concentration": 4.64,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": []
   }
 ]
