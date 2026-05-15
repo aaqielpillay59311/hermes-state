@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T15:25:18.785563+00:00",
-    "token": "MOONPEPE",
-    "ca": "CQoAVxVmVvdZaygNWZsDpRNWB8Dz9eYBwq9jkcj7pump",
-    "tier": "Low",
-    "ai_score": 4,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T15:56:18.747733+00:00",
     "token": "MEMELON",
     "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
@@ -1430,6 +1418,35 @@
     "warning_flags": [
       "\u26a0\ufe0f Dev Hold \u2014 5.33%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T15:35:21.004979+00:00",
+    "token": "Marvin",
+    "ca": "6w9LfH8KnqjrTdnKpqvj1kmUgCh1Z2yFEaRrMQKwpump",
+    "tier": "Low",
+    "ai_score": 20,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\ude80 Strong SM play",
+    "age_minutes": 202,
+    "liquidity_usd": 217000.0,
+    "mcap_usd": 715000.0,
+    "snipers": 3,
+    "retrace_pct": 27.0,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 8.15% \u26a0\ufe0f",
+    "holder_concentration": 8.15,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
