@@ -1,35 +1,5 @@
 [
   {
-    "time": "2026-05-15T04:28:53.305476+00:00",
-    "token": "HIM",
-    "ca": "Eo1e5VmdKmXTj75LRnPp1Kac3jHDVGtiKXggZXbSpump",
-    "tier": "Low",
-    "ai_score": 10,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 77,
-    "liquidity_usd": 128000.0,
-    "mcap_usd": 648000.0,
-    "snipers": 8,
-    "retrace_pct": 26.9,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.59% \u26a0\ufe0f",
-    "holder_concentration": 9.59,
-    "node_hold_pct": 5.01,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 7.13,
-    "trend": "Low",
-    "warning_flags": [
-      "Bundle Hold \u2014 7.13%",
-      "Node Hold \u2014 5.01%"
-    ]
-  },
-  {
     "time": "2026-05-15T04:38:16.085851+00:00",
     "token": "Dust",
     "ca": "6veQU7HDdXV5DC2Eqhnri5q71gkMzG73qKkSSudnpump",
@@ -1483,6 +1453,35 @@
       "Bundle Hold \u2014 27.35%"
     ],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T22:40:41.077839+00:00",
+    "token": "DIAMOND",
+    "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
+    "tier": "T1",
+    "ai_score": 27,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 27 \u2265 20 | BOBNET | \u26a0\ufe0f No Twitter",
+    "status": "EXECUTED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 660,
+    "liquidity_usd": 592000.0,
+    "mcap_usd": 848000.0,
+    "snipers": 12,
+    "retrace_pct": 28.0,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 3.13% \u26a0\ufe0f",
+    "holder_concentration": 3.13,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
+    "dex_fusion": "\ud83d\udd25 DEXSCREENER BOOST (+15%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
