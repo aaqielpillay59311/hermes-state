@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T01:04:50.866864+00:00",
-    "token": "F",
-    "ca": "G6hMgpNsK9anRNwSfCJfVbX925F2s55nYnpXf3LxSbEF",
-    "tier": "Unknown",
-    "ai_score": 0,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Unknown disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T01:18:07.793923+00:00",
     "token": "KINGMAKER",
     "ca": "E5yEc9KPzt62ubbNCgTghkQb1ZxThw3PKfmpxFCJpump",
@@ -933,5 +921,32 @@
     "warning_flags": [
       "\u26a0\ufe0f Bundle Hold \u2014 11.52%"
     ]
+  },
+  {
+    "time": "2026-05-15T00:15:06.334926+00:00",
+    "token": "Bee",
+    "ca": "2b2ReGJtwXYG2dYzHeYxYgYp65pHKtjN1pHHvgQCpump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 59,
+    "liquidity_usd": 77000.0,
+    "mcap_usd": 547000.0,
+    "snipers": 3,
+    "retrace_pct": 27.0,
+    "risk_level": "Fair",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 6.37% \u26a0\ufe0f",
+    "holder_concentration": 6.37,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": []
   }
 ]
