@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T13:46:42.336576+00:00",
-    "token": "73K",
-    "ca": "DPpVAgSkLCjgc5Ss6E51XAX2TUTKK3TzQ3P33HyS4444",
-    "tier": "T2",
-    "ai_score": 83,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier T2 disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T14:32:04.503379+00:00",
     "token": "MODU",
     "ca": "BexaXsU4Zg14Vvub5EVcXbco9cZZVWEJfhRRSr4Rpump",
@@ -1320,6 +1308,35 @@
     "warning_flags": [
       "Dev Hold \u2014 9.04%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T14:36:08.214206+00:00",
+    "token": "53K",
+    "ca": "Ggb57oLrCknPpEnYfrbkMAETLzpkJpARb5WhaFLoBory",
+    "tier": "Low",
+    "ai_score": 7,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "",
+    "age_minutes": 0,
+    "liquidity_usd": 53000.0,
+    "mcap_usd": 64000.0,
+    "snipers": 1,
+    "retrace_pct": 17.1,
+    "risk_level": "Fair",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 2.60%",
+    "holder_concentration": 2.6,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
