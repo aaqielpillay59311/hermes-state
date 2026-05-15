@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T15:18:09.954660+00:00",
-    "token": "MEMELON",
-    "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T15:25:18.785563+00:00",
     "token": "MOONPEPE",
     "ca": "CQoAVxVmVvdZaygNWZsDpRNWB8Dz9eYBwq9jkcj7pump",
@@ -1411,6 +1399,37 @@
     "bundle_hold_pct": 0,
     "trend": "Medium",
     "warning_flags": [],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T15:20:56.696902+00:00",
+    "token": "GPT",
+    "ca": "6mR52kx4sexuBPSPyKrLAFFXz3kdc61fqFAmPqLqpump",
+    "tier": "Low",
+    "ai_score": 14,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 72,
+    "liquidity_usd": 25000.0,
+    "mcap_usd": 749000.0,
+    "snipers": 2,
+    "retrace_pct": 27.2,
+    "risk_level": "Medium",
+    "safety_level": "Potential Dump \ud83d\udc80  |  \ud83d\udc7e 7.86% \u26a0\ufe0f",
+    "holder_concentration": 7.86,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 5.33,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Dev Hold \u2014 5.33%"
+    ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
