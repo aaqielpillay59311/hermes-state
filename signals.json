@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T15:11:16.469464+00:00",
-    "token": "DEER",
-    "ca": "4V9ebEKuL72Cu4zHmWjgNw4sxc9uuZBXRTqPj1sHpump",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T15:18:09.954660+00:00",
     "token": "MEMELON",
     "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
@@ -1394,6 +1382,35 @@
     "warning_flags": [
       "\u26a0\ufe0f Dev Hold \u2014 5.33%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T15:15:06.708872+00:00",
+    "token": "DIAMOND",
+    "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
+    "tier": "T2",
+    "ai_score": 65,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 65 \u2265 65 | BOBNET | \u26a0\ufe0f No Twitter",
+    "status": "EXECUTED",
+    "signal_type": "",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 214,
+    "liquidity_usd": 333000.0,
+    "mcap_usd": 2500000.0,
+    "snipers": 12,
+    "retrace_pct": 27.2,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 6.63% \u26a0\ufe0f",
+    "holder_concentration": 6.63,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
