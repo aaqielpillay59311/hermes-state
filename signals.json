@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T12:45:48.699240+00:00",
-    "token": "HUMANITAS",
-    "ca": "Cbv2Uj5PSAmuny3kNL2AcbFQWWgNbCb7izg7bHVtpump",
-    "tier": "Low",
-    "ai_score": 23,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T13:14:00.639848+00:00",
     "token": "MEMELON",
     "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
@@ -1284,6 +1272,35 @@
     "warning_flags": [
       "Bundle Hold \u2014 43.18%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T14:18:00.872023+00:00",
+    "token": "GPT",
+    "ca": "6mR52kx4sexuBPSPyKrLAFFXz3kdc61fqFAmPqLqpump",
+    "tier": "T1",
+    "ai_score": 64,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 64 \u2265 50 | BOBNET | \u26a0\ufe0f No Twitter",
+    "status": "EXECUTED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\ude80 Strong SM play",
+    "age_minutes": 9,
+    "liquidity_usd": 100000.0,
+    "mcap_usd": 375000.0,
+    "snipers": 15,
+    "retrace_pct": 0.0,
+    "risk_level": "Fair",
+    "safety_level": "Clean \u2705  |  \ud83d\udc7e 0.00%",
+    "holder_concentration": 0.0,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "High",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
