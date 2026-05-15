@@ -1,6 +1,6 @@
 {
-  "version": "1778870513181",
-  "timestamp": "2026-05-15T20:41:53.181083+02:00",
+  "version": "1778870575091",
+  "timestamp": "2026-05-15T20:42:55.091261+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 1.0,
@@ -17,51 +17,29 @@
   "risk": {
     "breakerStatus": "nominal",
     "peakBalance": 42.59,
-    "position": {
-      "tokenMint": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
-      "symbol": "DIAMOND",
-      "entryPrice": 0.00095476,
-      "amountUSD": 9.77,
-      "amountToken": 10232.905695,
-      "txHash": "manual-phantom-entry",
-      "entryTime": "2026-05-15T18:40:00.000Z",
-      "status": "open",
-      "currentPrice": 0.0004091,
-      "pnlPct": -0.5715153546440991,
-      "_highestPrice": 0.00095476,
-      "_softStopTriggered": false,
-      "_tp1Triggered": false,
-      "_tp2Triggered": false,
-      "_tp3Triggered": false,
-      "_earlyWarningTriggered": false,
-      "exitRecords": [],
-      "manualEntry": true,
-      "rugShieldOverride": true,
-      "notes": "Manual Phantom entry. User accepted 20.7% top holder risk.",
-      "lastChecked": "2026-05-15T18:41:29.714Z"
-    },
-    "blacklistCount": 0
+    "position": null,
+    "blacklistCount": 1
   },
   "bobnet": {
     "status": "online",
-    "uptime": 5382,
+    "uptime": 5443,
     "restarts": 20,
     "signals_today": 40,
     "signals_total": 50
   },
   "bot": {
-    "status": "stopped",
-    "uptime": 264,
+    "status": "online",
+    "uptime": 44,
     "restarts": 14,
-    "pid": 0,
-    "heap_mb": 0.0,
+    "pid": 644196,
+    "heap_mb": 89.7,
     "queue_size": 0
   },
   "performance": {
     "totalTrades": 0,
     "wins": 0,
-    "losses": 0,
-    "grossPnl": 0,
+    "losses": 1,
+    "grossPnl": -5.2378151090427005,
     "feesPaid": 0
   },
   "trades": [],
@@ -69,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 28164,
+      "uptime": 28226,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 66.9
+      "heap_mb": 66.6
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 4288,
+      "uptime": 4350,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -85,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 28163,
+      "uptime": 28225,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 89.5
+      "heap_mb": 89.6
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
-      "status": "stopped",
-      "uptime": 264,
+      "status": "online",
+      "uptime": 44,
       "restarts": 14,
-      "pid": 0,
-      "heap_mb": 0.0
+      "pid": 644196,
+      "heap_mb": 89.7
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 1578,
+      "uptime": 1639,
       "restarts": 16,
       "pid": 639228,
       "heap_mb": 41.4
@@ -109,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 4288,
+      "uptime": 4350,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.4
@@ -117,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 11929,
+      "uptime": 11991,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -125,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 5382,
+      "uptime": 5443,
       "restarts": 20,
       "pid": 629975,
       "heap_mb": 72.8
@@ -133,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 23790,
+      "uptime": 23851,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.5
@@ -141,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 20503,
+      "uptime": 20565,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.1
@@ -149,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 3467,
+      "uptime": 3528,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.6
@@ -181,7 +159,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-15T18:40:58.779174+00:00",
+        "last_update": "2026-05-15T18:41:58.959073+00:00",
         "total_tokens": 55,
         "boosted": 29,
         "trending": 26,
