@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-15T03:22:53.546368+00:00",
-    "token": "Uncanny",
-    "ca": "Ft9MU7SQcYBnHwjppHnjrfWNmREHHXpg6HHH7mX7pump",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 144,
-    "liquidity_usd": 35000.0,
-    "mcap_usd": 213000.0,
-    "snipers": 2,
-    "retrace_pct": 27.7,
-    "risk_level": "Warning",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 10.69% \u26a0\ufe0f",
-    "holder_concentration": 10.69,
-    "node_hold_pct": 7.74,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Node Hold \u2014 7.74%"
-    ]
-  },
-  {
     "time": "2026-05-15T03:32:47.845860+00:00",
     "token": "ANTROPIANS",
     "ca": "8tX4ZoxhnuaQrK2H59omSEQXCHTNwFn9vZUg1psh3W5Z",
@@ -1482,6 +1453,35 @@
     "warning_flags": [
       "Bundle Hold \u2014 15.16%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T22:02:42.054864+00:00",
+    "token": "DIAMOND",
+    "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 622,
+    "liquidity_usd": 685000.0,
+    "mcap_usd": 992000.0,
+    "snipers": 12,
+    "retrace_pct": 27.9,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 3.96% \u26a0\ufe0f",
+    "holder_concentration": 3.96,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
