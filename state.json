@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T04:30:55.659052+02:00",
+  "timestamp": "2026-05-15T04:31:57.264900+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 1.0,
@@ -21,17 +21,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 31326,
+    "uptime": 31388,
     "restarts": 14,
     "signals_today": 6,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 31327,
+    "uptime": 31388,
     "restarts": 9,
     "pid": 492058,
-    "heap_mb": 105.0,
+    "heap_mb": 104.5,
     "queue_size": 0
   },
   "performance": {
@@ -46,7 +46,7 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 274784,
+      "uptime": 274846,
       "restarts": 10,
       "pid": 103986,
       "heap_mb": 56.4
@@ -54,7 +54,7 @@
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 206810,
+      "uptime": 206872,
       "restarts": 2,
       "pid": 183217,
       "heap_mb": 0.2
@@ -62,15 +62,15 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 212302,
+      "uptime": 212363,
       "restarts": 21,
       "pid": 171658,
-      "heap_mb": 70.0
+      "heap_mb": 70.1
     },
     "twitter-monitor": {
       "name": "twitter-monitor",
       "status": "online",
-      "uptime": 276730,
+      "uptime": 276791,
       "restarts": 0,
       "pid": 101107,
       "heap_mb": 35.7
@@ -78,7 +78,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 31326,
+      "uptime": 31388,
       "restarts": 14,
       "pid": 492066,
       "heap_mb": 72.1
@@ -86,15 +86,15 @@
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 31327,
+      "uptime": 31388,
       "restarts": 9,
       "pid": 492058,
-      "heap_mb": 105.0
+      "heap_mb": 104.5
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 31054,
+      "uptime": 31116,
       "restarts": 18,
       "pid": 492490,
       "heap_mb": 39.1
@@ -102,7 +102,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 18064,
+      "uptime": 18125,
       "restarts": 1,
       "pid": 509476,
       "heap_mb": 37.5
@@ -110,7 +110,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 24726,
+      "uptime": 24787,
       "restarts": 5,
       "pid": 500993,
       "heap_mb": 3.1
