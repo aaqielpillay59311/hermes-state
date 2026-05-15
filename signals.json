@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-14T20:39:46.662003+00:00",
-    "token": "JOE",
-    "ca": "EjvsudvUcxrZwCWARwdS9BmEPisvZLjmnkdegeRbpump",
-    "tier": "Low",
-    "ai_score": 33,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\u2694\ufe0f War Mode  |  \ud83d\ude80 Strong SM play",
-    "age_minutes": 17,
-    "liquidity_usd": 209000.0,
-    "mcap_usd": 524000.0,
-    "snipers": 5,
-    "retrace_pct": 25.0,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.93% \u26a0\ufe0f",
-    "holder_concentration": 9.93,
-    "node_hold_pct": 5.96,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Medium",
-    "warning_flags": [
-      "Node Hold \u2014 5.96%"
-    ]
-  },
-  {
     "time": "2026-05-14T20:56:18.533440+00:00",
     "token": "FRANKIE",
     "ca": "GPt6t8MCmHibCN5T8aHuc5ntgLW5rJGZbccyhL1Cpump",
@@ -1459,6 +1430,37 @@
     "bundle_hold_pct": 0,
     "trend": "Low",
     "warning_flags": [],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T18:37:14.777035+00:00",
+    "token": "BOARDY",
+    "ca": "98A8bJZPu297Ha3NavTfPoEoR6NkMKBcZzF9a5y9pump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 8360,
+    "liquidity_usd": 3000.0,
+    "mcap_usd": 68000.0,
+    "snipers": 3,
+    "retrace_pct": 26.3,
+    "risk_level": "Warning",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 9.46% \u26a0\ufe0f",
+    "holder_concentration": 9.46,
+    "node_hold_pct": 8.83,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Extreme",
+    "warning_flags": [
+      "Node Hold \u2014 8.83%"
+    ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
