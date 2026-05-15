@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T11:34:14.020308+00:00",
-    "token": "MEMELON",
-    "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
-    "tier": "Low",
-    "ai_score": 10,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T12:45:48.699240+00:00",
     "token": "HUMANITAS",
     "ca": "Cbv2Uj5PSAmuny3kNL2AcbFQWWgNbCb7izg7bHVtpump",
@@ -1265,6 +1253,37 @@
     "bundle_hold_pct": 0,
     "trend": "Extreme",
     "warning_flags": [],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T14:16:12.231133+00:00",
+    "token": "NUTZ",
+    "ca": "AdZ6S1uT8FAhqGdCVqbbsz6fbDpfhQ9byX5QVHGMpump",
+    "tier": "Low",
+    "ai_score": 3,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 38,
+    "liquidity_usd": 333000.0,
+    "mcap_usd": 482000.0,
+    "snipers": 1,
+    "retrace_pct": 33.3,
+    "risk_level": "Fair",
+    "safety_level": "Clean \u2705  |  \ud83d\udc7e 0.00%",
+    "holder_concentration": 0.0,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 43.18,
+    "trend": "Low",
+    "warning_flags": [
+      "Bundle Hold \u2014 43.18%"
+    ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
