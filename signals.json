@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T10:57:27.996086+00:00",
-    "token": "MEMELON",
-    "ca": "GLpMf2yfRsnxRMd7VQJVguHAagE1dK5cyrKehQJA2vqN",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T11:04:56.527623+00:00",
     "token": "YILONG",
     "ca": "AByd79m4DZQBFTcRLguzu4usK8hvyaCbDtwZNJfYpump",
@@ -1215,6 +1203,35 @@
     "trend": "Low",
     "warning_flags": [
       "Dev Hold \u2014 8.01%"
+    ]
+  },
+  {
+    "time": "2026-05-15T10:58:54.175102+00:00",
+    "token": "USEC",
+    "ca": "b77PRZ39rF5tWL89aARgsaCsC84K5M4Bq41mq7xpump",
+    "tier": "Low",
+    "ai_score": 2,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 50,
+    "liquidity_usd": 305000.0,
+    "mcap_usd": 1300000.0,
+    "snipers": 0,
+    "retrace_pct": 70.4,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 5.92% \u26a0\ufe0f",
+    "holder_concentration": 5.92,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 5.34,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": [
+      "Dev Hold \u2014 5.34%"
     ]
   }
 ]
