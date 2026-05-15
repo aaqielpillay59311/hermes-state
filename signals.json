@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-05-15T02:23:22.121471+00:00",
-    "token": "Drake",
-    "ca": "9t5Ru5GaGmZer1CgGKAg28ZwbhNQ3EBywaF48jsTpump",
-    "tier": "Low",
-    "ai_score": 6,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\ud83d\udc22 Slow Runner",
-    "age_minutes": 23,
-    "liquidity_usd": 14000.0,
-    "mcap_usd": 66000.0,
-    "snipers": 0,
-    "retrace_pct": 23.7,
-    "risk_level": "Warning",
-    "safety_level": "Low \u2705  |  \ud83d\udc7e 6.90% \u26a0\ufe0f",
-    "holder_concentration": 6.9,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Medium",
-    "warning_flags": []
-  },
-  {
     "time": "2026-05-15T03:22:53.546368+00:00",
     "token": "Uncanny",
     "ca": "Ft9MU7SQcYBnHwjppHnjrfWNmREHHXpg6HHH7mX7pump",
@@ -1479,6 +1452,37 @@
       "Bundle Hold \u2014 5.82%"
     ],
     "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T21:59:00.213553+00:00",
+    "token": "SPCX",
+    "ca": "CjMRbwzntPpE8LNQtWDNdGQf7yoSHVJYzMRcUtj5pump",
+    "tier": "Low",
+    "ai_score": 1,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 165,
+    "liquidity_usd": 371000.0,
+    "mcap_usd": 512000.0,
+    "snipers": 0,
+    "retrace_pct": 36.8,
+    "risk_level": "Medium",
+    "safety_level": "Clean \u2705  |  \ud83d\udc7e 0.00%",
+    "holder_concentration": 0.0,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 15.16,
+    "trend": "Low",
+    "warning_flags": [
+      "Bundle Hold \u2014 15.16%"
+    ],
+    "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
