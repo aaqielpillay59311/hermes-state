@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T13:47:53.454167+02:00",
+  "timestamp": "2026-05-15T13:48:55.163300+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 1.0,
@@ -14,24 +14,24 @@
     "drawdownHalt": 0.2
   },
   "risk": {
-    "breakerStatus": "halted",
+    "breakerStatus": "nominal",
     "peakBalance": 42.48150416,
     "position": null,
     "blacklistCount": 0
   },
   "bobnet": {
     "status": "online",
-    "uptime": 420,
+    "uptime": 482,
     "restarts": 2,
     "signals_today": 19,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 1833,
+    "uptime": 1894,
     "restarts": 2,
     "pid": 582938,
-    "heap_mb": 100.8,
+    "heap_mb": 102.4,
     "queue_size": 0
   },
   "performance": {
@@ -46,15 +46,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 3324,
+      "uptime": 3386,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 61.8
+      "heap_mb": 62.0
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 3324,
+      "uptime": 3386,
       "restarts": 0,
       "pid": 578349,
       "heap_mb": 3.0
@@ -62,7 +62,7 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 3324,
+      "uptime": 3385,
       "restarts": 0,
       "pid": 578362,
       "heap_mb": 87.7
@@ -70,23 +70,23 @@
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 1833,
+      "uptime": 1894,
       "restarts": 2,
       "pid": 582938,
-      "heap_mb": 100.8
+      "heap_mb": 102.4
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 4,
+      "uptime": 66,
       "restarts": 4,
       "pid": 587773,
-      "heap_mb": 34.2
+      "heap_mb": 37.3
     },
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 3322,
+      "uptime": 3383,
       "restarts": 0,
       "pid": 578389,
       "heap_mb": 36.4
@@ -94,7 +94,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 3321,
+      "uptime": 3383,
       "restarts": 0,
       "pid": 578398,
       "heap_mb": 3.1
@@ -102,7 +102,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 420,
+      "uptime": 482,
       "restarts": 2,
       "pid": 586483,
       "heap_mb": 72.4
@@ -110,10 +110,55 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 650,
+      "uptime": 712,
       "restarts": 0,
       "pid": 585730,
       "heap_mb": 23.2
+    }
+  },
+  "quantum": {
+    "jito": {
+      "status": "Framework Ready",
+      "rpc": "Public (simulation mode)",
+      "tip_sol": "0.000010",
+      "land_rate_pct": 95,
+      "congestion": "LOW",
+      "total_simulations": 0
+    },
+    "alpha_sources": {
+      "telegram": {
+        "status": "ACTIVE",
+        "channels": 2,
+        "names": [
+          "The Printer ICM - Beta",
+          "The Printer by BobnetAI - Official"
+        ]
+      },
+      "dexscreener": {
+        "last_update": "2026-05-15T11:48:04.098186+00:00",
+        "total_tokens": 50,
+        "boosted": 27,
+        "trending": 24,
+        "cache_file": "/opt/solana-bot-v2/data/trending_cache.json",
+        "status": "ACTIVE"
+      },
+      "twitter": {
+        "status": "DISABLED"
+      }
+    },
+    "dynamic_risk": {
+      "mode": "warm-up",
+      "virtual_trades": 3,
+      "virtual_win_rate": 0.6667,
+      "real_trades": 0,
+      "current_size_usd": 10.0,
+      "risk_tier": "Conservative"
+    },
+    "signal_fusion": {
+      "enabled": true,
+      "boost_on_trending": 10,
+      "boost_on_boosted": 15,
+      "cache_tokens": 50
     }
   }
 }
