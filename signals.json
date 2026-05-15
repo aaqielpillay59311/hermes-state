@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T11:04:56.527623+00:00",
-    "token": "YILONG",
-    "ca": "AByd79m4DZQBFTcRLguzu4usK8hvyaCbDtwZNJfYpump",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T11:28:35.316146+00:00",
     "token": "67K",
     "ca": "DPpVAgSkLCjgc5Ss6E51XAX2TUTKK3TzQ3P33HyS4444",
@@ -1232,6 +1220,35 @@
     "trend": "Medium",
     "warning_flags": [
       "Dev Hold \u2014 5.34%"
+    ]
+  },
+  {
+    "time": "2026-05-15T11:37:52.746031+00:00",
+    "token": "Miss",
+    "ca": "VovySa7iAYQJeX4omYuvDvbp6QxDraAgZ5AYpc3pump",
+    "tier": "Low",
+    "ai_score": 15,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 18,
+    "liquidity_usd": 57000.0,
+    "mcap_usd": 147000.0,
+    "snipers": 1,
+    "retrace_pct": 24.4,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.45% \u26a0\ufe0f",
+    "holder_concentration": 9.45,
+    "node_hold_pct": 5.56,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Medium",
+    "warning_flags": [
+      "Node Hold \u2014 5.56%"
     ]
   }
 ]
