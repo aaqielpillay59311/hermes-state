@@ -1,17 +1,5 @@
 [
   {
-    "time": "2026-05-14T09:18:10.215574+00:00",
-    "token": "138K",
-    "ca": "kpYpoxvQXRYg8wTg11F64xvNbMMAykG9sZvxW45pump",
-    "tier": "Low",
-    "ai_score": 7,
-    "source": "UNKNOWN",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED"
-  },
-  {
     "time": "2026-05-14T10:26:36.679895+00:00",
     "token": "YILONG",
     "ca": "AByd79m4DZQBFTcRLguzu4usK8hvyaCbDtwZNJfYpump",
@@ -1165,5 +1153,34 @@
     "bundle_hold_pct": 0,
     "trend": "Low",
     "warning_flags": []
+  },
+  {
+    "time": "2026-05-15T06:48:48.952953+00:00",
+    "token": "Dust",
+    "ca": "6veQU7HDdXV5DC2Eqhnri5q71gkMzG73qKkSSudnpump",
+    "tier": "Low",
+    "ai_score": 30,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner  |  Runner Lvl. 9/10",
+    "age_minutes": 150,
+    "liquidity_usd": 82000.0,
+    "mcap_usd": 745000.0,
+    "snipers": 2,
+    "retrace_pct": 28.3,
+    "risk_level": "Medium",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 6.64% \u26a0\ufe0f",
+    "holder_concentration": 6.64,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 6.64,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Dev Hold \u2014 6.64%"
+    ]
   }
 ]
