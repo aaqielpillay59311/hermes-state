@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-15T00:16:24.857969+00:00",
-    "token": "JOE",
-    "ca": "EjvsudvUcxrZwCWARwdS9BmEPisvZLjmnkdegeRbpump",
-    "tier": "Low",
-    "ai_score": 4,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\ud83d\udc22 Slow Runner",
-    "age_minutes": 234,
-    "liquidity_usd": 27000.0,
-    "mcap_usd": 799000.0,
-    "snipers": 4,
-    "retrace_pct": 28.5,
-    "risk_level": "Medium",
-    "safety_level": "Low \u2705  |  \ud83d\udc7e 13.42% \u26a0\ufe0f",
-    "holder_concentration": 13.42,
-    "node_hold_pct": 8.95,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "\u26a0\ufe0f Node Hold \u2014 8.95%"
-    ]
-  },
-  {
     "time": "2026-05-15T01:07:10.249308+00:00",
     "token": "ANT",
     "ca": "E6cyZDUDozeLVvNzBxMT4RpfbtjReRonrgatF1Copump",
@@ -1476,6 +1447,37 @@
     "trend": "Medium",
     "warning_flags": [],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-15T21:17:09.253759+00:00",
+    "token": "USP",
+    "ca": "4nYuHrJT6NM2w2aUbroT5TZYtapfLxjECmps3nMGpm6X",
+    "tier": "T1",
+    "ai_score": 18,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "AI 18 < 20 (no Twitter, need \u226520)",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 17,
+    "liquidity_usd": 105000.0,
+    "mcap_usd": 276000.0,
+    "snipers": 2,
+    "retrace_pct": 25.6,
+    "risk_level": "Fair",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 4.10% \u26a0\ufe0f",
+    "holder_concentration": 4.1,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 5.82,
+    "trend": "Medium",
+    "warning_flags": [
+      "Bundle Hold \u2014 5.82%"
+    ],
+    "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
