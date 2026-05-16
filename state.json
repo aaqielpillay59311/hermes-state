@@ -1,6 +1,6 @@
 {
-  "version": "1778947219391",
-  "timestamp": "2026-05-16T18:00:19.391870+02:00",
+  "version": "1778947281228",
+  "timestamp": "2026-05-16T18:01:21.228830+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 5.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 1080,
+    "uptime": 1142,
     "restarts": 35,
     "signals_today": 50,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 1081,
+    "uptime": 1143,
     "restarts": 50,
     "pid": 799254,
-    "heap_mb": 99.4,
+    "heap_mb": 99.2,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 104870,
+      "uptime": 104932,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 67.5
+      "heap_mb": 67.7
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 80994,
+      "uptime": 81056,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 104870,
+      "uptime": 104931,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.5
+      "heap_mb": 90.8
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 1081,
+      "uptime": 1143,
       "restarts": 50,
       "pid": 799254,
-      "heap_mb": 99.4
+      "heap_mb": 99.2
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 785,
+      "uptime": 846,
       "restarts": 55,
       "pid": 802379,
       "heap_mb": 56.7
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 80994,
+      "uptime": 81056,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 88635,
+      "uptime": 88697,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 1080,
+      "uptime": 1142,
       "restarts": 35,
       "pid": 799274,
       "heap_mb": 72.7
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 100496,
+      "uptime": 100558,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 24.2
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 97209,
+      "uptime": 97271,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.4
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 8290,
+      "uptime": 8352,
       "restarts": 2,
       "pid": 778769,
       "heap_mb": 37.8
@@ -135,25 +135,25 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 73904,
+      "uptime": 73966,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.6
+      "heap_mb": 89.4
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 67824,
+      "uptime": 67886,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 116.3
+      "heap_mb": 114.3
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "waiting restart",
-      "uptime": 5,
-      "restarts": 135,
-      "pid": 810506,
+      "uptime": 8,
+      "restarts": 142,
+      "pid": 811082,
       "heap_mb": 0.0
     }
   },
@@ -183,7 +183,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T15:59:41.316356+00:00",
+        "last_update": "2026-05-16T16:00:41.418645+00:00",
         "total_tokens": 53,
         "boosted": 30,
         "trending": 24,
