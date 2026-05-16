@@ -1,6 +1,6 @@
 {
-  "version": "1778945674370",
-  "timestamp": "2026-05-16T17:34:34.370016+02:00",
+  "version": "1778945736083",
+  "timestamp": "2026-05-16T17:35:36.083389+02:00",
   "config": {
     "maxPerTrade": 10.0,
     "maxOpenPositions": 5.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 1258,
+    "uptime": 1319,
     "restarts": 34,
     "signals_today": 48,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 1259,
+    "uptime": 1321,
     "restarts": 49,
     "pid": 792084,
-    "heap_mb": 104.4,
+    "heap_mb": 104.2,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 103325,
+      "uptime": 103387,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 67.5
+      "heap_mb": 67.2
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 79449,
+      "uptime": 79511,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 103325,
+      "uptime": 103386,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.1
+      "heap_mb": 90.3
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 1259,
+      "uptime": 1321,
       "restarts": 49,
       "pid": 792084,
-      "heap_mb": 104.4
+      "heap_mb": 104.2
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 1257,
+      "uptime": 1319,
       "restarts": 52,
       "pid": 792123,
       "heap_mb": 52.7
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 79449,
+      "uptime": 79511,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 87090,
+      "uptime": 87152,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 1258,
+      "uptime": 1319,
       "restarts": 34,
       "pid": 792112,
       "heap_mb": 72.7
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 98951,
+      "uptime": 99012,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 24.2
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 95664,
+      "uptime": 95726,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.4
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 6745,
+      "uptime": 6807,
       "restarts": 2,
       "pid": 778769,
       "heap_mb": 37.8
@@ -135,26 +135,26 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 72359,
+      "uptime": 72421,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.1
+      "heap_mb": 89.4
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 66279,
+      "uptime": 66341,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 116.4
+      "heap_mb": 117.7
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "online",
-      "uptime": 3208,
+      "uptime": 3270,
       "restarts": 4,
       "pid": 786943,
-      "heap_mb": 21.7
+      "heap_mb": 21.8
     }
   },
   "session_pnl": {
@@ -183,7 +183,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T15:33:39.003053+00:00",
+        "last_update": "2026-05-16T15:34:39.072497+00:00",
         "total_tokens": 51,
         "boosted": 30,
         "trending": 22,
