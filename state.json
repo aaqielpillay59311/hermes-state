@@ -1,6 +1,6 @@
 {
-  "version": "1778908115590",
-  "timestamp": "2026-05-16T07:08:35.590852+02:00",
+  "version": "1778908177362",
+  "timestamp": "2026-05-16T07:09:37.362367+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 370,
+    "uptime": 432,
     "restarts": 22,
     "signals_today": 7,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 3,
+    "uptime": 65,
     "restarts": 19,
     "pid": 714613,
-    "heap_mb": 103.5,
+    "heap_mb": 87.6,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 65766,
+      "uptime": 65828,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 66.9
+      "heap_mb": 67.5
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 41890,
+      "uptime": 41952,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 65766,
+      "uptime": 65827,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.2
+      "heap_mb": 90.8
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 3,
+      "uptime": 65,
       "restarts": 19,
       "pid": 714613,
-      "heap_mb": 103.5
+      "heap_mb": 87.6
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 1351,
+      "uptime": 1413,
       "restarts": 27,
       "pid": 712262,
       "heap_mb": 44.5
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 41890,
+      "uptime": 41952,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 49531,
+      "uptime": 49593,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 370,
+      "uptime": 432,
       "restarts": 22,
       "pid": 713833,
       "heap_mb": 72.5
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 61392,
+      "uptime": 61454,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.5
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 58105,
+      "uptime": 58167,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 41069,
+      "uptime": 41131,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.7
@@ -135,7 +135,7 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 34800,
+      "uptime": 34862,
       "restarts": 0,
       "pid": 653695,
       "heap_mb": 89.0
@@ -143,10 +143,10 @@
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 28720,
+      "uptime": 28782,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 107.4
+      "heap_mb": 106.3
     }
   },
   "session_pnl": {
@@ -175,8 +175,8 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T05:07:43.332922+00:00",
-        "total_tokens": 58,
+        "last_update": "2026-05-16T05:08:43.379950+00:00",
+        "total_tokens": 59,
         "boosted": 30,
         "trending": 30,
         "cache_file": "/opt/solana-bot-v2/data/trending_cache.json",
@@ -195,7 +195,7 @@
       "enabled": true,
       "boost_on_trending": 10,
       "boost_on_boosted": 15,
-      "cache_tokens": 58
+      "cache_tokens": 59
     }
   },
   "rug_shield": {
