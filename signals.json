@@ -1,36 +1,5 @@
 [
   {
-    "time": "2026-05-16T10:14:40.020822+00:00",
-    "token": "Yae",
-    "ca": "GbuHq6UTNUp8CaFsoPgUhxpPBnkVXGepDHgFhN2kpump",
-    "tier": "Low",
-    "ai_score": 12,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\ud83d\udc22 Slow Runner",
-    "age_minutes": 175,
-    "liquidity_usd": 1300000.0,
-    "mcap_usd": 2600000.0,
-    "snipers": 4,
-    "retrace_pct": 28.0,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 9.40% \u26a0\ufe0f",
-    "holder_concentration": 9.4,
-    "node_hold_pct": 5.58,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Node Hold \u2014 5.58%"
-    ],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-16T10:25:01.294729+00:00",
     "token": "LUCY",
     "ca": "9LooeuSKG3H2mxj9yxWvoNibVLuxsE8qeobuHjZfpump",
@@ -1527,6 +1496,37 @@
     "trend": "Low",
     "warning_flags": [],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T20:23:32.886585+00:00",
+    "token": "SCAMCOIN",
+    "ca": "2xDCEXU6bW9XwszfZmXEcn6oe9iUzLtaaX7QX2Ycpump",
+    "tier": "T2",
+    "ai_score": 49,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 49 \u2265 20 | BOBNET | \u2705 Twitter active",
+    "status": "QUEUED",
+    "signal_type": "",
+    "token_status": "\ud83d\ude80 Strong SM play",
+    "age_minutes": 10,
+    "liquidity_usd": 53000.0,
+    "mcap_usd": 235000.0,
+    "snipers": 6,
+    "retrace_pct": 23.4,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 6.68% \u26a0\ufe0f",
+    "holder_concentration": 6.68,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 6.48,
+    "trend": "High",
+    "warning_flags": [
+      "\u26a0\ufe0f Bundle Hold \u2014 6.48%"
+    ],
+    "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
