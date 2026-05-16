@@ -1,6 +1,6 @@
 {
-  "version": "1778889854838",
-  "timestamp": "2026-05-16T02:04:14.838911+02:00",
+  "version": "1778889916731",
+  "timestamp": "2026-05-16T02:05:16.731757+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 10461,
+    "uptime": 10522,
     "restarts": 21,
     "signals_today": 0,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 10461,
+    "uptime": 10523,
     "restarts": 18,
     "pid": 675110,
-    "heap_mb": 107.7,
+    "heap_mb": 107.6,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 47505,
+      "uptime": 47567,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 64.0
+      "heap_mb": 64.4
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 23630,
+      "uptime": 23691,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 47505,
+      "uptime": 47567,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.3
+      "heap_mb": 90.0
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 10461,
+      "uptime": 10523,
       "restarts": 18,
       "pid": 675110,
-      "heap_mb": 107.7
+      "heap_mb": 107.6
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 9795,
+      "uptime": 9857,
       "restarts": 26,
       "pid": 676884,
       "heap_mb": 43.1
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 23630,
+      "uptime": 23691,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.6
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 31271,
+      "uptime": 31332,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 10461,
+      "uptime": 10522,
       "restarts": 21,
       "pid": 675122,
       "heap_mb": 74.1
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 43131,
+      "uptime": 43193,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.5
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 39845,
+      "uptime": 39906,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 22808,
+      "uptime": 22870,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.9
@@ -135,7 +135,7 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 16540,
+      "uptime": 16601,
       "restarts": 0,
       "pid": 653695,
       "heap_mb": 87.6
@@ -143,10 +143,10 @@
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 10460,
+      "uptime": 10521,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 114.7
+      "heap_mb": 107.0
     }
   },
   "session_pnl": {
@@ -175,7 +175,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T00:03:21.930862+00:00",
+        "last_update": "2026-05-16T00:04:21.998799+00:00",
         "total_tokens": 50,
         "boosted": 30,
         "trending": 23,
