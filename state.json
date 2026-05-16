@@ -1,6 +1,6 @@
 {
-  "version": "1778900876119",
-  "timestamp": "2026-05-16T05:07:56.119702+02:00",
+  "version": "1778900937970",
+  "timestamp": "2026-05-16T05:08:57.970409+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 21482,
+    "uptime": 21544,
     "restarts": 21,
     "signals_today": 5,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 21482,
+    "uptime": 21544,
     "restarts": 18,
     "pid": 675110,
-    "heap_mb": 103.6,
+    "heap_mb": 103.2,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 58527,
+      "uptime": 58588,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 65.4
+      "heap_mb": 66.2
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 34651,
+      "uptime": 34713,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 58526,
+      "uptime": 58588,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.2
+      "heap_mb": 90.9
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 21482,
+      "uptime": 21544,
       "restarts": 18,
       "pid": 675110,
-      "heap_mb": 103.6
+      "heap_mb": 103.2
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 20816,
+      "uptime": 20878,
       "restarts": 26,
       "pid": 676884,
       "heap_mb": 43.1
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 34651,
+      "uptime": 34713,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 42292,
+      "uptime": 42354,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 21482,
+      "uptime": 21544,
       "restarts": 21,
       "pid": 675122,
       "heap_mb": 74.4
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 54152,
+      "uptime": 54214,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.5
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 50866,
+      "uptime": 50928,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 33829,
+      "uptime": 33891,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.9
@@ -135,18 +135,18 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 27561,
+      "uptime": 27623,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.4
+      "heap_mb": 88.8
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 21481,
+      "uptime": 21543,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 114.7
+      "heap_mb": 107.2
     }
   },
   "session_pnl": {
@@ -175,8 +175,8 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T03:07:33.823661+00:00",
-        "total_tokens": 55,
+        "last_update": "2026-05-16T03:08:33.900278+00:00",
+        "total_tokens": 54,
         "boosted": 30,
         "trending": 28,
         "cache_file": "/opt/solana-bot-v2/data/trending_cache.json",
@@ -195,7 +195,7 @@
       "enabled": true,
       "boost_on_trending": 10,
       "boost_on_boosted": 15,
-      "cache_tokens": 55
+      "cache_tokens": 54
     }
   },
   "rug_shield": {
