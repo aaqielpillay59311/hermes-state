@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-16T06:21:09.988863+00:00",
-    "token": "Napoleon",
-    "ca": "4i8XQih162ZrpE5ATkowkUz2qm6DSKJeNVS6wZZcpump",
-    "tier": "Low",
-    "ai_score": 11,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 21,
-    "liquidity_usd": 50000.0,
-    "mcap_usd": 152000.0,
-    "snipers": 0,
-    "retrace_pct": 25.6,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 5.73% \u26a0\ufe0f",
-    "holder_concentration": 5.73,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Medium",
-    "warning_flags": [],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-16T07:14:35.198344+00:00",
     "token": "CLAUFFICE",
     "ca": "8VRzQPUQ7Noa11d6gnzserNnhMNiaNPPATXJKAoPpump",
@@ -1520,6 +1491,37 @@
       "Node Hold \u2014 6.15%"
     ],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T16:53:38.428842+00:00",
+    "token": "Yae",
+    "ca": "GbuHq6UTNUp8CaFsoPgUhxpPBnkVXGepDHgFhN2kpump",
+    "tier": "T1",
+    "ai_score": 20,
+    "source": "BOBNET",
+    "should_trade": true,
+    "window_open": true,
+    "reason": "OK \u2014 AI 20 \u2265 15 | BOBNET | \u2705 Twitter active",
+    "status": "EXECUTED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 574,
+    "liquidity_usd": 860000.0,
+    "mcap_usd": 1600000.0,
+    "snipers": 8,
+    "retrace_pct": 28.4,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 9.18% \u26a0\ufe0f",
+    "holder_concentration": 9.18,
+    "node_hold_pct": 7.27,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "\u26a0\ufe0f Node Hold \u2014 7.27%"
+    ],
+    "dex_fusion": "\ud83d\udd25 DEXSCREENER BOOST (+15%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
