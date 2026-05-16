@@ -1,37 +1,5 @@
 [
   {
-    "time": "2026-05-16T05:33:18.299925+00:00",
-    "token": "CANNIBAL",
-    "ca": "J45BdF9VoGqheQD8MBCJede6bnVVtGURz1KaNLNepump",
-    "tier": "Low",
-    "ai_score": 2,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 230,
-    "liquidity_usd": 58000.0,
-    "mcap_usd": 541000.0,
-    "snipers": 1,
-    "retrace_pct": 28.9,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 15.71% \u26a0\ufe0f",
-    "holder_concentration": 15.71,
-    "node_hold_pct": 11.19,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 5.6,
-    "trend": "Low",
-    "warning_flags": [
-      "Bundle Hold \u2014 5.60%",
-      "Node Hold \u2014 11.19%"
-    ],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-16T06:07:33.819235+00:00",
     "token": "F",
     "ca": "DkaY3z9hYutckCNoLCy8kfJvrDEDwjojQ9zL1s4Fpump",
@@ -1517,6 +1485,37 @@
     "warning_flags": [
       "Dev Hold \u2014 7.78%",
       "Node Hold \u2014 6.64%"
+    ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T16:35:58.983756+00:00",
+    "token": "208K",
+    "ca": "3t1bNt1RoXZvrPDZp8SXEaaQarZRBFf7W6mi9Eb8BAGS",
+    "tier": "Low",
+    "ai_score": 4,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "",
+    "age_minutes": 0,
+    "liquidity_usd": 208000.0,
+    "mcap_usd": 430000.0,
+    "snipers": 0,
+    "retrace_pct": 29.3,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 15.15% \u26a0\ufe0f",
+    "holder_concentration": 15.15,
+    "node_hold_pct": 12.71,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "Node Hold \u2014 12.71%"
     ],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
