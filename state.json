@@ -1,6 +1,6 @@
 {
-  "version": "1778957501995",
-  "timestamp": "2026-05-16T20:51:41.995043+02:00",
+  "version": "1778957563696",
+  "timestamp": "2026-05-16T20:52:43.696548+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 5.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 706,
+    "uptime": 768,
     "restarts": 38,
     "signals_today": 50,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 706,
+    "uptime": 768,
     "restarts": 55,
     "pid": 850757,
-    "heap_mb": 98.1,
+    "heap_mb": 98.2,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 115152,
+      "uptime": 115214,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 64.2
+      "heap_mb": 64.8
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 91277,
+      "uptime": 91338,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,7 +63,7 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 115152,
+      "uptime": 115214,
       "restarts": 0,
       "pid": 578362,
       "heap_mb": 90.4
@@ -71,15 +71,15 @@
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 706,
+      "uptime": 768,
       "restarts": 55,
       "pid": 850757,
-      "heap_mb": 98.1
+      "heap_mb": 98.2
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 1987,
+      "uptime": 2049,
       "restarts": 65,
       "pid": 847115,
       "heap_mb": 58.1
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 91277,
+      "uptime": 91338,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 98918,
+      "uptime": 98979,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 706,
+      "uptime": 768,
       "restarts": 38,
       "pid": 850769,
       "heap_mb": 72.9
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 110778,
+      "uptime": 110840,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 24.4
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 107492,
+      "uptime": 107553,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.4
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 18573,
+      "uptime": 18634,
       "restarts": 2,
       "pid": 778769,
       "heap_mb": 39.1
@@ -135,31 +135,31 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 84187,
+      "uptime": 84248,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.1
+      "heap_mb": 89.9
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 3472,
+      "uptime": 3534,
       "restarts": 7,
       "pid": 842896,
-      "heap_mb": 113.7
+      "heap_mb": 116.7
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "online",
-      "uptime": 506,
+      "uptime": 567,
       "restarts": 340,
       "pid": 851473,
-      "heap_mb": 34.2
+      "heap_mb": 34.3
     },
     "dexscreener-sniper": {
       "name": "dexscreener-sniper",
       "status": "online",
-      "uptime": 8644,
+      "uptime": 8706,
       "restarts": 3,
       "pid": 826512,
       "heap_mb": 25.6
@@ -191,7 +191,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T18:50:57.502904+00:00",
+        "last_update": "2026-05-16T18:51:57.549897+00:00",
         "total_tokens": 55,
         "boosted": 30,
         "trending": 25,
