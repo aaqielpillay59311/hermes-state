@@ -1,6 +1,6 @@
 {
-  "version": "1778939002491",
-  "timestamp": "2026-05-16T15:43:22.491366+02:00",
+  "version": "1778939064168",
+  "timestamp": "2026-05-16T15:44:24.168799+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 17265,
+    "uptime": 17327,
     "restarts": 33,
-    "signals_today": 40,
+    "signals_today": 41,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 10006,
+    "uptime": 10068,
     "restarts": 48,
     "pid": 758252,
-    "heap_mb": 106.1,
+    "heap_mb": 106.7,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 96653,
+      "uptime": 96715,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 65.7
+      "heap_mb": 65.9
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 72777,
+      "uptime": 72839,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 96653,
+      "uptime": 96714,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.6
+      "heap_mb": 90.4
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 10006,
+      "uptime": 10068,
       "restarts": 48,
       "pid": 758252,
-      "heap_mb": 106.1
+      "heap_mb": 106.7
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 76,
+      "uptime": 137,
       "restarts": 49,
       "pid": 778751,
       "heap_mb": 50.7
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 72777,
+      "uptime": 72839,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 80418,
+      "uptime": 80480,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 17265,
+      "uptime": 17327,
       "restarts": 33,
       "pid": 743238,
       "heap_mb": 73.7
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 92279,
+      "uptime": 92341,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.9
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 88992,
+      "uptime": 89054,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,34 +127,34 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 73,
+      "uptime": 135,
       "restarts": 2,
       "pid": 778769,
-      "heap_mb": 40.4
+      "heap_mb": 37.8
     },
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 65687,
+      "uptime": 65749,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.1
+      "heap_mb": 89.6
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 59607,
+      "uptime": 59669,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 111.3
+      "heap_mb": 101.3
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "online",
-      "uptime": 10008,
+      "uptime": 10069,
       "restarts": 2,
       "pid": 758201,
-      "heap_mb": 19.9
+      "heap_mb": 20.1
     }
   },
   "session_pnl": {
@@ -183,8 +183,8 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T13:42:31.074298+00:00",
-        "total_tokens": 48,
+        "last_update": "2026-05-16T13:43:31.137696+00:00",
+        "total_tokens": 49,
         "boosted": 30,
         "trending": 21,
         "cache_file": "/opt/solana-bot-v2/data/trending_cache.json",
@@ -203,7 +203,7 @@
       "enabled": true,
       "boost_on_trending": 10,
       "boost_on_boosted": 15,
-      "cache_tokens": 48
+      "cache_tokens": 49
     }
   },
   "rug_shield": {
