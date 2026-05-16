@@ -1,6 +1,6 @@
 {
-  "version": "1778938631182",
-  "timestamp": "2026-05-16T15:37:11.182069+02:00",
+  "version": "1778938692896",
+  "timestamp": "2026-05-16T15:38:12.896198+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 16894,
+    "uptime": 16956,
     "restarts": 33,
-    "signals_today": 38,
+    "signals_today": 39,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 9635,
+    "uptime": 9697,
     "restarts": 48,
     "pid": 758252,
-    "heap_mb": 106.6,
+    "heap_mb": 106.4,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 96282,
+      "uptime": 96343,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 65.9
+      "heap_mb": 65.4
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 72406,
+      "uptime": 72468,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,7 +63,7 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 96281,
+      "uptime": 96343,
       "restarts": 0,
       "pid": 578362,
       "heap_mb": 91.9
@@ -71,23 +71,23 @@
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 9635,
+      "uptime": 9697,
       "restarts": 48,
       "pid": 758252,
-      "heap_mb": 106.6
+      "heap_mb": 106.4
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 86,
-      "restarts": 46,
-      "pid": 777130,
-      "heap_mb": 48.9
+      "uptime": 26,
+      "restarts": 47,
+      "pid": 777783,
+      "heap_mb": 43.9
     },
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 72406,
+      "uptime": 72468,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 80047,
+      "uptime": 80109,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 16894,
+      "uptime": 16956,
       "restarts": 33,
       "pid": 743238,
       "heap_mb": 73.7
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 91908,
+      "uptime": 91969,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.9
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 88621,
+      "uptime": 88683,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 71585,
+      "uptime": 71646,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.6
@@ -135,23 +135,23 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 65316,
+      "uptime": 65378,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.0
+      "heap_mb": 89.8
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 59236,
+      "uptime": 59298,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 107.7
+      "heap_mb": 104.0
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "online",
-      "uptime": 9636,
+      "uptime": 9698,
       "restarts": 2,
       "pid": 758201,
       "heap_mb": 19.8
@@ -183,7 +183,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T13:36:30.719814+00:00",
+        "last_update": "2026-05-16T13:37:30.790587+00:00",
         "total_tokens": 48,
         "boosted": 30,
         "trending": 21,

@@ -1,36 +1,5 @@
 [
   {
-    "time": "2026-05-15T21:59:00.213553+00:00",
-    "token": "SPCX",
-    "ca": "CjMRbwzntPpE8LNQtWDNdGQf7yoSHVJYzMRcUtj5pump",
-    "tier": "Low",
-    "ai_score": 1,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\ud83d\udc22 Slow Runner",
-    "age_minutes": 165,
-    "liquidity_usd": 371000.0,
-    "mcap_usd": 512000.0,
-    "snipers": 0,
-    "retrace_pct": 36.8,
-    "risk_level": "Medium",
-    "safety_level": "Clean \u2705  |  \ud83d\udc7e 0.00%",
-    "holder_concentration": 0.0,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 15.16,
-    "trend": "Low",
-    "warning_flags": [
-      "Bundle Hold \u2014 15.16%"
-    ],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-15T22:02:42.054864+00:00",
     "token": "DIAMOND",
     "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
@@ -1507,6 +1476,35 @@
       "Node Hold \u2014 5.86%"
     ],
     "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T13:38:06.220318+00:00",
+    "token": "BAGELS",
+    "ca": "BigGboBX6veMLQV6gzqgV9Pbx8LeobR6eDjUQicXpump",
+    "tier": "T1",
+    "ai_score": 18,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "AI 18 < 50 (w/ Twitter, need \u226550)",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\ud83d\udc22 Slow Runner",
+    "age_minutes": 96,
+    "liquidity_usd": 96000.0,
+    "mcap_usd": 1500000.0,
+    "snipers": 3,
+    "retrace_pct": 28.0,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 5.91% \u26a0\ufe0f",
+    "holder_concentration": 5.91,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
+    "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
