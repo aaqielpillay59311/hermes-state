@@ -1,6 +1,6 @@
 {
-  "version": "1778925414567",
-  "timestamp": "2026-05-16T11:56:54.567799+02:00",
+  "version": "1778925476259",
+  "timestamp": "2026-05-16T11:57:56.259696+02:00",
   "config": {
     "maxPerTrade": 5.0,
     "maxOpenPositions": 3.0,
@@ -22,17 +22,17 @@
   },
   "bobnet": {
     "status": "online",
-    "uptime": 3678,
+    "uptime": 3739,
     "restarts": 33,
-    "signals_today": 23,
+    "signals_today": 24,
     "signals_total": 50
   },
   "bot": {
     "status": "online",
-    "uptime": 909,
+    "uptime": 970,
     "restarts": 46,
     "pid": 748976,
-    "heap_mb": 96.8,
+    "heap_mb": 97.2,
     "queue_size": 0
   },
   "performance": {
@@ -47,15 +47,15 @@
     "bot-api": {
       "name": "bot-api",
       "status": "online",
-      "uptime": 83065,
+      "uptime": 83127,
       "restarts": 0,
       "pid": 578341,
-      "heap_mb": 64.8
+      "heap_mb": 64.3
     },
     "bot-tunnel": {
       "name": "bot-tunnel",
       "status": "online",
-      "uptime": 59189,
+      "uptime": 59251,
       "restarts": 1,
       "pid": 631968,
       "heap_mb": 3.1
@@ -63,23 +63,23 @@
     "data-service": {
       "name": "data-service",
       "status": "online",
-      "uptime": 83065,
+      "uptime": 83126,
       "restarts": 0,
       "pid": 578362,
-      "heap_mb": 90.6
+      "heap_mb": 91.0
     },
     "athena-bot-v2": {
       "name": "athena-bot-v2",
       "status": "online",
-      "uptime": 909,
+      "uptime": 970,
       "restarts": 46,
       "pid": 748976,
-      "heap_mb": 96.8
+      "heap_mb": 97.2
     },
     "thor-dashboard": {
       "name": "thor-dashboard",
       "status": "online",
-      "uptime": 8727,
+      "uptime": 8789,
       "restarts": 39,
       "pid": 732428,
       "heap_mb": 40.2
@@ -87,7 +87,7 @@
     "thor-tunnel": {
       "name": "thor-tunnel",
       "status": "online",
-      "uptime": 59189,
+      "uptime": 59251,
       "restarts": 1,
       "pid": 631964,
       "heap_mb": 36.7
@@ -95,7 +95,7 @@
     "nginx-proxy": {
       "name": "nginx-proxy",
       "status": "online",
-      "uptime": 66830,
+      "uptime": 66892,
       "restarts": 44,
       "pid": 612311,
       "heap_mb": 3.1
@@ -103,7 +103,7 @@
     "bobnet-listener-v2": {
       "name": "bobnet-listener-v2",
       "status": "online",
-      "uptime": 3678,
+      "uptime": 3739,
       "restarts": 33,
       "pid": 743238,
       "heap_mb": 73.0
@@ -111,7 +111,7 @@
     "sentiment-engine": {
       "name": "sentiment-engine",
       "status": "online",
-      "uptime": 78691,
+      "uptime": 78753,
       "restarts": 1,
       "pid": 590362,
       "heap_mb": 23.5
@@ -119,7 +119,7 @@
     "vercel-sync": {
       "name": "vercel-sync",
       "status": "online",
-      "uptime": 75404,
+      "uptime": 75466,
       "restarts": 0,
       "pid": 597915,
       "heap_mb": 13.2
@@ -127,7 +127,7 @@
     "dashboard-tunnel": {
       "name": "dashboard-tunnel",
       "status": "online",
-      "uptime": 58368,
+      "uptime": 58430,
       "restarts": 0,
       "pid": 633738,
       "heap_mb": 38.7
@@ -135,26 +135,26 @@
     "pumpfun-sniper": {
       "name": "pumpfun-sniper",
       "status": "online",
-      "uptime": 52099,
+      "uptime": 52161,
       "restarts": 0,
       "pid": 653695,
-      "heap_mb": 89.6
+      "heap_mb": 90.2
     },
     "wallet-scanner": {
       "name": "wallet-scanner",
       "status": "online",
-      "uptime": 46019,
+      "uptime": 46081,
       "restarts": 6,
       "pid": 675127,
-      "heap_mb": 111.3
+      "heap_mb": 114.6
     },
     "omega-remediation-daemon": {
       "name": "omega-remediation-daemon",
       "status": "online",
-      "uptime": 8678,
+      "uptime": 8740,
       "restarts": 1,
       "pid": 732567,
-      "heap_mb": 14.9
+      "heap_mb": 14.8
     }
   },
   "session_pnl": {
@@ -183,7 +183,7 @@
         ]
       },
       "dexscreener": {
-        "last_update": "2026-05-16T09:56:10.940281+00:00",
+        "last_update": "2026-05-16T09:57:11.105179+00:00",
         "total_tokens": 53,
         "boosted": 30,
         "trending": 26,
