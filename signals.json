@@ -1,37 +1,5 @@
 [
   {
-    "time": "2026-05-15T17:32:05.151276+00:00",
-    "token": "YGMI",
-    "ca": "4khLfbmDbhoonMLdpyukD3rcP5NJaSEbTM8QvnkD97Lv",
-    "tier": "Low",
-    "ai_score": 0,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 10,
-    "liquidity_usd": 47000.0,
-    "mcap_usd": 228000.0,
-    "snipers": 3,
-    "retrace_pct": 24.4,
-    "risk_level": "Medium",
-    "safety_level": "Low \u2705  |  \ud83d\udc7e 13.06% \u26a0\ufe0f",
-    "holder_concentration": 13.06,
-    "node_hold_pct": 5.88,
-    "dev_hold_pct": 7.18,
-    "bundle_hold_pct": 0,
-    "trend": "Medium",
-    "warning_flags": [
-      "\u26a0\ufe0f Dev Hold \u2014 7.18%",
-      "Node Hold \u2014 5.88%"
-    ],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-15T17:53:20.987457+00:00",
     "token": "DIAMOND",
     "ca": "8Kpqq6791DvdomkV59DXMqRXvoh3k6wM6nbFNkcBpump",
@@ -1495,6 +1463,35 @@
     "warning_flags": [
       "\u26a0\ufe0f Dev Hold \u2014 10.24%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T09:33:08.233385+00:00",
+    "token": "F",
+    "ca": "DkaY3z9hYutckCNoLCy8kfJvrDEDwjojQ9zL1s4Fpump",
+    "tier": "Low",
+    "ai_score": 9,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "",
+    "age_minutes": 347,
+    "liquidity_usd": 80000.0,
+    "mcap_usd": 122000.0,
+    "snipers": 1,
+    "retrace_pct": 29.4,
+    "risk_level": "Medium",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 1.96%",
+    "holder_concentration": 1.96,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
