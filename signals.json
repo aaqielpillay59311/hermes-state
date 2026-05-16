@@ -1,36 +1,5 @@
 [
   {
-    "time": "2026-05-16T05:16:32.590960+00:00",
-    "token": "BABYWOJAK",
-    "ca": "4Y5HhBEa2Mmbx3P6S1ttLGzSYCfgykMdmutFHXsNpump",
-    "tier": "Low",
-    "ai_score": 5,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "\u2796 Not Runner",
-    "age_minutes": 491,
-    "liquidity_usd": 109000.0,
-    "mcap_usd": 220000.0,
-    "snipers": 1,
-    "retrace_pct": 28.2,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 14.41% \u26a0\ufe0f",
-    "holder_concentration": 14.41,
-    "node_hold_pct": 12.82,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [
-      "Node Hold \u2014 12.82%"
-    ],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-16T05:33:18.299925+00:00",
     "token": "CANNIBAL",
     "ca": "J45BdF9VoGqheQD8MBCJede6bnVVtGURz1KaNLNepump",
@@ -1518,6 +1487,38 @@
       "Node Hold \u2014 7.22%"
     ],
     "dex_fusion": "\ud83d\udd25 DEXSCREENER BOOST (+15%)",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T16:33:19.671382+00:00",
+    "token": "GAPLA",
+    "ca": "3y3X6Bk6zpZpaFJ1KYJ7b33HbFM7ip5TqQPYLWJhpump",
+    "tier": "Low",
+    "ai_score": 1,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "SKIPPED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 696,
+    "liquidity_usd": 74000.0,
+    "mcap_usd": 61000.0,
+    "snipers": 1,
+    "retrace_pct": 29.3,
+    "risk_level": "Warning",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 14.42% \u26a0\ufe0f",
+    "holder_concentration": 14.42,
+    "node_hold_pct": 6.64,
+    "dev_hold_pct": 7.78,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [
+      "Dev Hold \u2014 7.78%",
+      "Node Hold \u2014 6.64%"
+    ],
+    "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
