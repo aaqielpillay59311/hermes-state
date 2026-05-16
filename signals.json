@@ -1,34 +1,5 @@
 [
   {
-    "time": "2026-05-16T09:33:08.233385+00:00",
-    "token": "F",
-    "ca": "DkaY3z9hYutckCNoLCy8kfJvrDEDwjojQ9zL1s4Fpump",
-    "tier": "Low",
-    "ai_score": 9,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "Tier Low disabled",
-    "status": "SKIPPED",
-    "signal_type": "TOKEN_DETECTED",
-    "token_status": "",
-    "age_minutes": 347,
-    "liquidity_usd": 80000.0,
-    "mcap_usd": 122000.0,
-    "snipers": 1,
-    "retrace_pct": 29.4,
-    "risk_level": "Medium",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 1.96%",
-    "holder_concentration": 1.96,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 0,
-    "trend": "Low",
-    "warning_flags": [],
-    "dex_fusion": "",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-16T09:36:28.123846+00:00",
     "token": "Yae",
     "ca": "GbuHq6UTNUp8CaFsoPgUhxpPBnkVXGepDHgFhN2kpump",
@@ -1527,6 +1498,37 @@
       "Node Hold \u2014 7.27%"
     ],
     "dex_fusion": "\ud83d\udd25 DEXSCREENER BOOST (+15%)",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T18:31:19.713014+00:00",
+    "token": "YOLO",
+    "ca": "AZPyEsvWHvaZQLbNUc3n2DzKN2X8oNZQNYiHDuhApump",
+    "tier": "Low",
+    "ai_score": 0,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "Tier Low disabled",
+    "status": "REJECTED",
+    "signal_type": "TOKEN_DETECTED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 13,
+    "liquidity_usd": 38000.0,
+    "mcap_usd": 110000.0,
+    "snipers": 4,
+    "retrace_pct": 26.3,
+    "risk_level": "Warning",
+    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 7.49% \u26a0\ufe0f",
+    "holder_concentration": 7.49,
+    "node_hold_pct": 6.96,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "High",
+    "warning_flags": [
+      "Node Hold \u2014 6.96%"
+    ],
+    "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
 ]
