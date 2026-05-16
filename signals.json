@@ -1,36 +1,5 @@
 [
   {
-    "time": "2026-05-15T21:17:09.253759+00:00",
-    "token": "USP",
-    "ca": "4nYuHrJT6NM2w2aUbroT5TZYtapfLxjECmps3nMGpm6X",
-    "tier": "T1",
-    "ai_score": 18,
-    "source": "BOBNET",
-    "should_trade": false,
-    "window_open": true,
-    "reason": "AI 18 < 20 (no Twitter, need \u226520)",
-    "status": "SKIPPED",
-    "signal_type": "TARGET_LOCKED",
-    "token_status": "\ud83d\udc22 Slow Runner",
-    "age_minutes": 17,
-    "liquidity_usd": 105000.0,
-    "mcap_usd": 276000.0,
-    "snipers": 2,
-    "retrace_pct": 25.6,
-    "risk_level": "Fair",
-    "safety_level": "Watch Out \u26a0\ufe0f  |  \ud83d\udc7e 4.10% \u26a0\ufe0f",
-    "holder_concentration": 4.1,
-    "node_hold_pct": 0,
-    "dev_hold_pct": 0,
-    "bundle_hold_pct": 5.82,
-    "trend": "Medium",
-    "warning_flags": [
-      "Bundle Hold \u2014 5.82%"
-    ],
-    "dex_fusion": "\ud83d\udcc8 DEXSCREENER TRENDING (+10%)",
-    "source_channel": "The Printer ICM - Beta"
-  },
-  {
     "time": "2026-05-15T21:17:57.567689+00:00",
     "token": "USP",
     "ca": "4nYuHrJT6NM2w2aUbroT5TZYtapfLxjECmps3nMGpm6X",
@@ -1508,6 +1477,35 @@
     "warning_flags": [
       "Node Hold \u2014 5.64%"
     ],
+    "dex_fusion": "",
+    "source_channel": "The Printer ICM - Beta"
+  },
+  {
+    "time": "2026-05-16T13:13:25.636279+00:00",
+    "token": "LUCY",
+    "ca": "9LooeuSKG3H2mxj9yxWvoNibVLuxsE8qeobuHjZfpump",
+    "tier": "T1",
+    "ai_score": 16,
+    "source": "BOBNET",
+    "should_trade": false,
+    "window_open": true,
+    "reason": "AI 16 < 50 (w/ Twitter, need \u226550)",
+    "status": "SKIPPED",
+    "signal_type": "TARGET_LOCKED",
+    "token_status": "\u2796 Not Runner",
+    "age_minutes": 203,
+    "liquidity_usd": 142000.0,
+    "mcap_usd": 1200000.0,
+    "snipers": 0,
+    "retrace_pct": 30.3,
+    "risk_level": "Fair",
+    "safety_level": "Low \u2705  |  \ud83d\udc7e 2.29%",
+    "holder_concentration": 2.29,
+    "node_hold_pct": 0,
+    "dev_hold_pct": 0,
+    "bundle_hold_pct": 0,
+    "trend": "Low",
+    "warning_flags": [],
     "dex_fusion": "",
     "source_channel": "The Printer ICM - Beta"
   }
